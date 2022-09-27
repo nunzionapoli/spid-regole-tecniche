@@ -40,3 +40,4 @@ Indice dei contenuti
    log.rst
    attributi.rst
    messaggi-errore.rst
+   index_QAD.rst
